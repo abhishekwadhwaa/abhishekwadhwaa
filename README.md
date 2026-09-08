@@ -1,16 +1,49 @@
-## Hi there 👋
+Hi, I'm Abhishek Wadhwa
 
-<!--
-**abhishekwadhwaa/abhishekwadhwaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Engineer → SDET 
 
-Here are some ideas to get you started:
+Manual Testing | API Testing | Python | Selenium | Pytest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Professional Experience:
+
+Keywords Studios:
+
+🎮 Rebellion
+
+Compliance • Functional • Regression • Gameplay
+Cross-platform Testing • Defect Reporting
+
+🎮 Super Evil Megacorp
+
+Functional • Gameplay • Regression
+Cross-platform Testing • Defect Reporting • Validation
+
+---
+
+QA Skills
+
+Manual Testing
+API Testing
+Web Testing
+Mobile Testing
+Game Testing
+...
+
+---
+
+Featured Projects
+
+🛒 OpenCart
+🏦 ParaBank
+📱 Mobile Testing
+🔌 API Testing
+🤖 Selenium + Python
+
+---
+
+## 🚀 Currently Learning
+
+Python → Selenium → Pytest
+→ API Automation → SDET
