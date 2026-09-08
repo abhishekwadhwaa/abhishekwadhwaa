@@ -6,7 +6,7 @@ Manual Testing | API Testing | Python | Selenium | Pytest
 
 ---
 
-Professional Experience:
+💼 Professional Experience:
 
 Keywords Studios:
 
@@ -22,7 +22,7 @@ Cross-platform Testing • Defect Reporting • Validation
 
 ---
 
-QA Skills
+🧪 QA Skills
 
 Manual Testing
 API Testing
@@ -33,7 +33,7 @@ Game Testing
 
 ---
 
-Featured Projects
+📂 Featured Projects
 
 🛒 OpenCart
 🏦 ParaBank
@@ -43,7 +43,7 @@ Featured Projects
 
 ---
 
-## 🚀 Currently Learning
+🚀 Currently Learning
 
 Python → Selenium → Pytest
 → API Automation → SDET
