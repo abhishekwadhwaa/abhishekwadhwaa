@@ -4,7 +4,7 @@
 
 QA professional with **3+ years of experience** across manual, game, and automation testing roles. Currently working as an **Automation QA Engineer at eMag Technologies**, developing and maintaining web automation tests with Python, Selenium WebDriver, and Pytest.
 
-[LinkedIn](https://www.linkedin.com/in/abhishekwadhwa05) | [GitHub](https://github.com/abhishekwadhwaa)
+[LinkedIn](https://www.linkedin.com/in/abhishekwadhwa05) 
 
 ## Technical Skills
 
