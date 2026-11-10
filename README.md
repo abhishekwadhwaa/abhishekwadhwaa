@@ -65,6 +65,13 @@ QA professional with **3+ years of experience** across manual, game, and automat
 - Performed positive/negative, input validation, transaction, and session testing; tracked defects using Jira.
 - Produced test plans, requirements traceability, bug reports, and execution summaries.
 
+### [RESTful Booker - API Testing with Postman](https://github.com/abhishekwadhwaa/API-Testing_restful-booker)
+
+- Built a Postman API testing project covering RESTful Booker CRUD operations (GET, POST, PATCH, PUT, DELETE) and authentication.
+- Automated request chaining by extracting and reusing authentication tokens and booking IDs.
+- Implemented positive and negative tests, JSON Schema validation, and data-driven test execution.
+- Completed a Core CRUD regression run with **20/20 tests passed, 0 failures, and 0 errors**.
+
 ## Education & Training
 
 - **Bachelor of Computer Applications** - G.D. Goenka University, Gurugram
